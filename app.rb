@@ -28,7 +28,7 @@ class App < Sinatra::Base
     {
       "payload": {
         "telegram": {
-          "text": response,
+          "fulfillmentText": response,
           "parse_mode": "Markdown"
         }
       }
