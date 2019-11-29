@@ -25,15 +25,9 @@ class App < Sinatra::Base
     end
 
     content_type :json, charset: 'utf-8'
-    content_type :json, charset: 'utf-8'
-    {
-      "payload": {
-        "telegram": {
-          "text": response,
-          "parse_mode": "Markdown"
-        }
-      }
-    }.to_json
 
+    {
+      'fulfillmentText': response
+    }.to_json
   end
 end
