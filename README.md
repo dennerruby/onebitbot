@@ -15,7 +15,7 @@ Here are the technologies used in this project.
 * Docker-compose 1.16.1
 * postgres 9.5
 * telegram
-
+* Sinatra 2.0.7
 ## Services Used
  
 * Github
