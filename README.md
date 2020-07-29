@@ -1,4 +1,4 @@
-![Logo of the project](https://github.com/dennerruby/Onebitexchange/blob/master/public/readme_images/logo.png)
+![Logo of the project](https://github.com/dennerruby/Onebitbot/blob/master/public/readme_images/OneBitbot.png)
  
 ## OneBit Bot
  
@@ -24,7 +24,7 @@ Here are the technologies used in this project.
  
 ## How to use
  
-![Home Screen](https://github.com/dennerruby/Onebitexchange/blob/master/public/readme_images/Captura%20de%20tela%20de%202020-01-13%2021-00-42.png)
+![Home Screen](https://github.com/dennerruby/Onebitbot/blob/master/public/readme_images/Onebitbot%20tela%202.png)
  
  
 ## Features
