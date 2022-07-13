@@ -1,6 +1,6 @@
 source :rubygems
 gem 'sinatra'
-gem 'activerecord','~> 5.2.3'
+gem 'activerecord','~> 5.2.8'
 gem "sinatra-activerecord"
 gem 'pg'
 gem 'rake'
